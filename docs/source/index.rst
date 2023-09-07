@@ -17,11 +17,9 @@ Elle se divise en deux parties:
    Si tu te sens bloqué sur une étape pour une raison ou une autre, n'oublie pas que tu 
 Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
 
-
 .. button::
    :text: Button Text
-   :link: link/to/stuff.html
-   
+
 Liste des sections
 --------
 
