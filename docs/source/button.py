@@ -44,22 +44,10 @@ class ButtonDirective(Directive):
 
         node = ButtonNode()
         node['text'] = ''.join(self.content.data)
-        """
-        .. button::
-            :class: solid-blue-btn
-
-            content.data[0]
-            content.data[1]
-
-        .. button:: content.data[0]
-            :class: solid-blue-btn                
-        """
-        # style = "background-color:green; font-size: 30px;"
-
         node['class'] = self.options['class'].strip()
         node['link'] = self.options.get('link')
         if self.options.get('style'):
-            style = 'style=' + self.options['style']  # style = "background-color:green; font-size: 30px;"
+            style = 'style=' + self.options['style'] 
             node['style'] = style
         return [node]
 
