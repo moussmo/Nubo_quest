@@ -1,5 +1,9 @@
-Welcome to Lumache's documentation!
+Bienvenue à toi, apprenant avide de savoir !
 ===================================
+
+Tu veux te lancer sur le Cloud interministériel Nubo mais tu as peur de faire tes premiers tout seul ?
+Ce tutoriel est fait pour toi ! 
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
