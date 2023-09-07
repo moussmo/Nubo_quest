@@ -2,6 +2,8 @@
 
 # -- Project information
 
+import sys 
+
 project = 'Pas-à-Pas Nubo'
 copyright = '2023, MMoussaoui'
 author = 'MMoussaoui'
