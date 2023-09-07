@@ -3,6 +3,7 @@
 # -- Project information
 
 import sys 
+import os
 
 project = 'Pas-à-Pas Nubo'
 copyright = '2023, MMoussaoui'
