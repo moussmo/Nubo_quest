@@ -19,6 +19,6 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
 .. button::
    :text: Button Text
-
+   :link: index.rst
 Liste des sections
 --------
