@@ -28,12 +28,6 @@ class ButtonDirective(Directive):
     has_content = True
     required_arguments = 0
 
-    """
-    You have to set `option_spec` before you do the following
-    .. xxx::
-        :link:
-        :class:
-    """
     option_spec = {
         'link': unchanged,
         'class': unchanged,
@@ -44,9 +38,9 @@ class ButtonDirective(Directive):
     # it will insert a ButtonNode into the document that will
     # get visisted during the build phase
     def run(self):
-        # env = self.state.document.settings.env
-        # app: Sphinx = env.app
-        # app.add_css_file('css/button/solid-blue-btn.css')  # or you can set it on the conf.py
+        env = self.state.document.settings.env
+        app: Sphinx = env.app
+        app.add_css_file('css/button/solid-blue-btn.css')  # or you can set it on the conf.py
 
         node = ButtonNode()
         node['text'] = ''.join(self.content.data)
