@@ -22,9 +22,3 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
 Liste des sections
 --------
-
-.. toctree::
-
-   usage
-   api
-   new_section
