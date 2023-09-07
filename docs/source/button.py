@@ -40,7 +40,7 @@ class ButtonDirective(Directive):
     def run(self):
         env = self.state.document.settings.env
         app: Sphinx = env.app
-        app.add_css_file('css/button/solid-blue-btn.css')  # or you can set it on the conf.py
+        app.add_css_file('button.css')  # or you can set it on the conf.py
 
         node = ButtonNode()
         node['text'] = ''.join(self.content.data)
