@@ -21,4 +21,10 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
    L'histoire d'un naufragé <introduction>
 
+.. toctree::
+   :caption: Quête principale
+
+   Construction d'un abri de base <quete1>
+
+
 
