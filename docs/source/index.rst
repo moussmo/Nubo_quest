@@ -29,15 +29,16 @@ Liste des sections
    :maxdepth: 2
    :hidden:
    :caption: Introduction
-   index.rst 
-   introduction.rst 
+   L'histoire d'un naufragé </introduction>
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Construire un abri de base !
+   :caption: Quête principale
+   Construction d'un abri de base </quete1>
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Améliorer l'abri
+   :caption: Quêtes d'amélioration
+
