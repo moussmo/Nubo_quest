@@ -1,4 +1,4 @@
-Histoire d'un naufrage
+Histoire
 =====
 
 Installation
