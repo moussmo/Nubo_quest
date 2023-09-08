@@ -19,7 +19,15 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Introduction
    L'histoire d'un naufragé <introduction>
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Quête principale
+   Construction d'un abri de base </quete1>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Quêtes d'amélioration
