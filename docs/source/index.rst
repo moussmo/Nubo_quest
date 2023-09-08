@@ -1,9 +1,9 @@
-Bienvenue à toi, apprenant avide de savoir !
+Bienvenue au Pas-à-Pas Nubo!
 ===================================
 
 Tu veux te lancer sur le Cloud interministériel Nubo mais tu as peur de faire tes premiers pas tout seul ? Ce tutoriel est fait pour toi ! 
 
-Cette formation, sous forme d'une *aventure ludique*, est la parfaite opportunité pour apprendre à déployer une application sur Nubo de A à Z. 
+Cette formation, sous forme d'une *aventure ludique*, est la parfaite opportunité pour apprendre à déployer de A à Z une application sur Nubo. 
 Elle se divise en deux parties:
 
 1. Introduction au bases de Nubo afin de déployer une simple application Wordpress.
@@ -25,3 +25,19 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
 Liste des sections
 --------
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Introduction
+   index.rst 
+   introduction.rst 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Construire un abri de base !
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Améliorer l'abri
