@@ -1,7 +1,5 @@
-Usage
+Histoire d'un naufrage
 =====
-
-.. _installation:
 
 Installation
 ------------
