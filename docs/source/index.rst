@@ -18,7 +18,7 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
 .. toctree::
    :caption: Getting Started
-   
-   introduction
+
+   L'histoire d'un naufragé <introduction>
 
 
