@@ -15,11 +15,13 @@ Elle se divise en deux parties:
 .. note::
    Si tu te sens bloqué sur une étape pour une raison ou une autre, n'oublie pas que tu as toujours accès à la solution.
 
+Prends le temps de lire la section :doc:`Accès à l'environnement Nubo` afin de t'accomoder avec les différents moyens de connexion à Nubo. 
 Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
 
 .. toctree::
    :caption: Getting Started
 
+   Accès à l'environnement Nubo <environnement>
    Histoire d'un naufrage <storytelling>
 
 .. toctree::
@@ -30,9 +32,9 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 .. toctree::
    :caption: Quêtes secondaires
 
-   Prendre de la hauteur ! <quete_observabilite>
    Encore plus de constructions <quete_modularite>
    Des outils pour se faciliter la vie <quete_automatisation>
+   Prendre de la hauteur ! <quete_observabilite>
    Un abri paré au pire des scénarios <quete_disponibilite>
 
 
