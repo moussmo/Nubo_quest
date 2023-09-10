@@ -19,18 +19,18 @@ Prends le temps de lire la section :doc:`Accès à l'environnement Nubo` afin de
 Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
 
 .. toctree::
-   :caption: Getting Started
+   :caption: 🚀 Getting Started
 
    Accès à l'environnement Nubo <environnement>
    Histoire d'un naufrage <storytelling>
 
 .. toctree::
-   :caption: Quête principale
+   :caption: 🏝️ Quête principale
 
    Construction d'un abri de base <quete_socle>
 
 .. toctree::
-   :caption: Quêtes secondaires
+   :caption: 🔨 Quêtes secondaires
 
    Encore plus de constructions <quete_modularite>
    Des outils pour se faciliter la vie <quete_automatisation>
