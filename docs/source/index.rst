@@ -10,21 +10,29 @@ Elle se divise en deux parties:
 2. Mise en place de fonctionnalités avancées afin de produire une application complète et robuste
 
 .. note::
-   Bien qu'ouvert à un public assez large, ce pas-à-pas s'adresse principalement à des personnes ayant des bases en administration système et infrastructure informatique.
+   Bien qu'ouvert à un public assez large, ce pas-à-pas s'adresse principalement à des personnes ayant des connaissances en administration système et infrastructure informatique.
 
 .. note::
-   Si tu te sens bloqué sur une étape pour une raison ou une autre, n'oublie pas que tu 
+   Si tu te sens bloqué sur une étape pour une raison ou une autre, n'oublie pas que tu as toujours accès à la solution.
+
 Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
 
 .. toctree::
    :caption: Getting Started
 
-   L'histoire d'un naufragé <introduction>
+   Histoire d'un naufrage <storytelling>
 
 .. toctree::
    :caption: Quête principale
 
    Construction d'un abri de base <quete1>
 
+.. toctree::
+   :caption: Quêtes secondaires
+
+   Prendre de la hauteur ! <quete_observabilite>
+   Encore plus de constructions <quete_modularite>
+   Des outils pour se faciliter la vie <quete_automatisation>
+   Un abri paré au pire des scénarios <quete_disponibilite>
 
 
