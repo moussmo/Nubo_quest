@@ -41,6 +41,8 @@ html_logo = '_static/logo.png'
 html_css_files = [
     '_static/custom.css',
 ]
+html_static_path = ['_static']
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
