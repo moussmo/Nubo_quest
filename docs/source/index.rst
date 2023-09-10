@@ -25,7 +25,7 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 .. toctree::
    :caption: Quête principale
 
-   Construction d'un abri de base <quete1>
+   Construction d'un abri de base <quete_socle>
 
 .. toctree::
    :caption: Quêtes secondaires
